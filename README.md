@@ -16,9 +16,6 @@ https://pranaay2007.github.io/fitness-tracker/
 *   **Progress Tracking:** Efficiently store and retrieve user data without a backend.
 *   **Mobile-First Design:** Fully responsive layout for use inside the gym.
 
-## 📸 Screenshots
-*(Add a screenshot of your app here)*
-- You can drag and drop an image file into the GitHub editor to upload it, then copy the generated link into the README.
 
 ## 💡 What I Learned
 *   Gained experience in manipulating the DOM to create dynamic user interfaces.
